@@ -28,7 +28,7 @@
     "@dword-design/functions": "^5.0.20",
     "chokidar": "^3.3.0",
     "debounce": "^1.2.0",
-    "execa": "^7.1.1",
+    "execa": "^9.0.0",
     "tree-kill-promise": "^3.0.14"
   },
   "devDependencies": {
