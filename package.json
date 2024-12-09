@@ -32,7 +32,7 @@
     "tree-kill-promise": "^3.0.14"
   },
   "devDependencies": {
-    "@dword-design/base": "^10.0.8",
+    "@dword-design/base": "^11.0.0",
     "@dword-design/tester": "^2.0.12",
     "@dword-design/tester-plugin-tmp-dir": "^2.1.7",
     "axios": "^1.2.2",
